@@ -1,0 +1,105 @@
+{
+  "products": [
+    {
+      "name": "Молоко",
+      "price": "45",
+      "img": "https://milkalliance.com.ua/uploads/gallery_photo/photo/0380/31.jpg",
+      "description": "Натуральное коровье молоко, содержание молока 100%",
+      "code": "461234567890",
+      "id": 1,
+      "status": false,
+      "quantity": 1
+    },
+    {
+      "name": "Айран",
+      "price": "50",
+      "img": "https://od.fozzyshop.com.ua/105115-thickbox_default/ajran-onur-tureckij.jpg",
+      "description": "Изготовлен из натурального молока. Жирность - 20%",
+      "code": "461234567899",
+      "id": 2,
+      "quantity": 1,
+      "status": true
+    },
+    {
+      "name": "Йогурт",
+      "price": "55",
+      "img": "https://vgastronom.ru/upload/iblock/5c8/5c8e1fcd7e12809cd9bdf9427278337b.jpg",
+      "description": "Изготовлен из натурального молока. Обезжиринный, 5,5%",
+      "code": "461234567892",
+      "id": 3,
+      "status": false,
+      "quantity": 1
+    },
+    {
+      "name": "Творог",
+      "price": "65",
+      "img": "https://vgastronom.ru/upload/iblock/ca1/ca1f50ca5b4319b255e9b092835fb37e.jpg",
+      "description": "Изготовлен из натурального молока. Обезжиринный, 6,5%",
+      "code": "461234567893",
+      "id": 4,
+      "status": false,
+      "quantity": 1
+    },
+    {
+      "name": "Сметана",
+      "price": "65",
+      "img": "https://img3.zakaz.ua/zakaz-HP-630-Notebook-PC.1454850187.ad72436478c_2016-02-08_vitaliy/zakaz-HP-630-Notebook-PC.1454850187.SND186F2.obj.100.13.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg",
+      "description": "Изготовлен из натурального молока. Обезжиринный, 6,5%",
+      "code": "461234567894",
+      "id": 5,
+      "status": false,
+      "quantity": 1
+    },
+    {
+      "name": "Сыр",
+      "price": "250",
+      "img": "https://cdn1.ozone.ru/s3/multimedia-f/6000997647.jpg",
+      "description": "Изготовлен из натурального молока. Жирность - 20%",
+      "code": "461234567895",
+      "id": 6,
+      "status": false,
+      "quantity": 1
+    },
+    {
+      "name": "Сливочное масло",
+      "price": "75",
+      "img": "https://images.spasibovsem.ru/catalog/original/slivochnoe-maslo-ekomilk-825-otzyvy-1387301464.jpg",
+      "description": "Изготовлен из натурального молока. Жирность - 82,5%",
+      "code": "461234567896",
+      "id": 7,
+      "status": false,
+      "quantity": 1
+    },
+    {
+      "name": "Сливки",
+      "price": "120",
+      "img": "https://vgastronom.ru/upload/iblock/9ba/9ba284529582d8ed36f7d90f981208d3.JPG",
+      "description": "Изготовлен из натурального молока. Жирность - 30%",
+      "code": "461234567897",
+      "id": 8,
+      "quantity": 1,
+      "status": false
+    },
+    {
+      "name": "Маргарин",
+      "price": "40",
+      "img": "https://vgastronom.ru/upload/iblock/1a9/1a9d4d43b2b35fd1e2c04268016cca18.jpg",
+      "description": "Изготовлен из натурального молока. Жирность - 40%",
+      "code": "461234567898",
+      "id": 9,
+      "quantity": 1,
+      "status": false
+    },
+    {
+      "name": "Агуша",
+      "price": "50",
+      "img": "https://vgastronom.ru/upload/iblock/ab0/ab0b6e204e6606ded3a3d46358517b74.jpg",
+      "description": "Изготовлен из натурального молока. Жирность - 20%",
+      "code": "461234567891",
+      "id": 10,
+      "status": false,
+      "quantity": 1
+    }
+  ],
+  "basket": []
+}

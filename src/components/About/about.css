@@ -1,0 +1,12 @@
+.mt-3, .my-3 {
+    margin-top: 6rem!important;
+    margin-left: -18rem;
+}
+
+p {
+    margin-top: 12px;
+    margin-bottom: 1rem;
+    font-style: italic;
+    text-decoration: blink;
+    font-weight: bolder;
+}

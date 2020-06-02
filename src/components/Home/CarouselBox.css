@@ -1,0 +1,9 @@
+.h3, h3 {
+    font-size: 1.75rem;
+    margin-top: 12px;
+    margin-bottom: 1rem;
+    font-style: italic;
+    text-decoration: blink;
+    font-weight: bold;
+    color: #857070;
+}

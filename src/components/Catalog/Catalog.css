@@ -1,0 +1,31 @@
+.catalog ul{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin: 20px;
+    padding: 10px;
+}
+
+.catalog img {
+    width: 200px;
+    height: 210px;
+}
+.catalog li{
+    width: 210px;
+    list-style-type: none;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 100px;
+    border: 1px solid;
+    /* background-color:ivory; */
+}
+.catalog button {
+    border-radius: 4px;
+    background-color: yellow;
+    background: url(../../image/depositphotos_24751603-stock-photo-shopping-cart-blue-circle-web.jpg) 0 0 no-repeat;
+    background-size: contain;
+    width: 50px;
+    height: 50px;
+    border: none;
+}

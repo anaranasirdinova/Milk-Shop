@@ -1,0 +1,38 @@
+/* .home{
+    background: url(../../image/photo.jpg) 100% 100% no-repeat;
+    display: block;
+} */
+.banner {
+    padding: 350px 10px 90px 20px;
+    /* background: url(../../image/photo6.jpg) 50% 50% no-repeat; */
+    background-size: inherit;
+
+}
+.banner__content {
+    width: 650px;
+    font-family: Lato, sans-serif;
+    color: #fff;
+}
+.banner__content h2 {
+    font-size: 30px;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+}
+.banner__content h3 {
+    font-size: 25px;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+    color: black;
+    font-weight: bold;
+    margin-left: 80px;
+}
+.banner__content p {
+    font-size: 20px;
+    color: black;
+    padding: 5px;
+}
+/* .milky {
+    height: 600px;
+    background: #fff url(../../image/photo2.jpg) 50% 100% no-repeat;
+    background-size: 900px;
+} */
